@@ -1,0 +1,144 @@
+        /*Pagina principal - defecto*/
+*{
+    margin:0;
+    padding: 0;
+    justify-content: center;
+}
+
+        /*Menu Principal*/
+
+header{
+    display:flex;
+    align-items: center;
+    background-color: #FFD3DB;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    font-size: 25px;
+    margin-left: 60px;
+}
+
+li a {
+    background-color:#FFEDF0;
+    padding: 15px;
+    border-radius: 25px;
+    text-decoration: none;
+    color: black
+}
+
+        /*INDEX*/
+
+#carouselExampleIndicators{
+    width: 85%;
+    margin: 0 auto;
+}
+
+
+.categorias-titulo{
+background-color: #FFEDF0;
+padding: 15px;
+font-size: 40px;
+}
+
+#col-md-6{
+    display: flex;
+    justify-content:center;   
+    border-right: solid #FFABBB;
+    border-left: solid #FFABBB
+}
+
+.categoria{
+    display:flex;
+    width: 450px;
+    margin: 0 auto;
+    padding: 0;
+    border: 5px solid #FF8AA0;
+}
+
+        /*Cards Productos*/
+
+#titulo{
+    background-color: #FFEDF0;
+    padding: 15px;
+}
+
+body{
+    background-color: #FFFBFC;
+}
+.btn{
+    display: flex;
+}
+
+.card{
+    width: 200px;
+    margin: 30px 30px 15px 20px;
+    background-color:white;
+    border: solid #FF8AA0;
+}
+
+h1{
+    font-size: 20px;
+    text-align: center;
+}
+
+
+h5, h4{
+    text-align: center;
+
+}
+
+
+
+p{
+    text-align: center;
+}
+
+/*Footer*/
+
+.whatsapp{
+    width: 50px;
+}
+
+footer{
+    display:flex;
+    background-color: #FFD3DB;
+    justify-content: left;
+    align-items: center;
+    padding: 50px;
+}
+
+.footer-nav{
+    display: flex;
+    flex-direction: column;
+    background-color: #FFD3DB;
+    padding: 15px;
+}
+
+.footer-a{
+    display: flex;
+    justify-content: left;
+}
+
+.col-md-6{
+    display: flex;
+    align-items: center;
+
+}
+
+/* Imagenes Banco, efectivo y tarjeta de credito*/
+
+
+.banco, .efectivo, .credito{
+    width: 100%;
+}
+
+.banner-medios-pago{
+    width: 100%;
+}
+
+.p-efectivo{
+    font-size: 20px;
+}

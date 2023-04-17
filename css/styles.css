@@ -48,7 +48,8 @@ font-size: 40px;
     display: flex;
     justify-content:center;   
     border-right: solid #FFABBB;
-    border-left: solid #FFABBB
+    border-left: solid #FFABBB;
+    width: 40%;
 }
 
 .categoria{
@@ -57,6 +58,7 @@ font-size: 40px;
     margin: 0 auto;
     padding: 0;
     border: 2px solid #FF8AA0;
+    width: 90%;
 }
 
 @media  (max-width: 1400px) {

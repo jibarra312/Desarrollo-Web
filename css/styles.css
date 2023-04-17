@@ -109,11 +109,6 @@ p{
 }
 
 /*Footer*/
-
-.whatsapp{
-    width: 50px;
-}
-
 footer{
     display:flex;
     background-color: #FFD3DB;
@@ -161,4 +156,13 @@ footer div ul li{
 
 .p-efectivo{
     font-size: 20px;
+}
+
+/* Imagenes de Redes sociales - Whatsapp*/
+.whatsapp{
+    width: 55px;
+    position: fixed;
+    bottom: 60px;
+    right: 50px;
+
 }

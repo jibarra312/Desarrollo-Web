@@ -16,14 +16,14 @@ header{
 nav ul{
     display: flex;
     list-style: none;
-    gap: 40px;
-    font-size: 25px;
-    margin-left: 60px;
+    gap: 20px;
+    font-size: 20px;
+    margin-left: 30px;
 }
 
-li a {
+.nav-item {
     background-color:#FFEDF0;
-    padding: 15px;
+    padding: 10px;
     border-radius: 25px;
     text-decoration: none;
     color: black

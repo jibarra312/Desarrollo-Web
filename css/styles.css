@@ -56,8 +56,15 @@ font-size: 40px;
     width: 450px;
     margin: 0 auto;
     padding: 0;
-    border: 5px solid #FF8AA0;
+    border: 2px solid #FF8AA0;
 }
+
+@media  (max-width: 1400px) {
+    .categoria{
+        width: 90%;
+    }
+}
+
 
 .mapa{
     width: 85%;

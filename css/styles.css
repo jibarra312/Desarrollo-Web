@@ -110,6 +110,21 @@ p{
     text-align: center;
 }
 
+#oferta{
+    background-color: #F4ACB7;
+}
+
+h6 {
+    display: flex;
+    justify-content: center;
+    text-decoration: line-through;
+}
+
+.boton-oferta{
+    position: relative;
+    
+}
+
 /*Footer*/
 footer{
     display:flex;

@@ -10,7 +10,7 @@
 header{
     display:flex;
     align-items: center;
-    background-color: #FFD3DB;
+    background-color: #FFCAD4;
 }
 
 nav ul{
@@ -104,8 +104,6 @@ h5, h4{
 
 }
 
-
-
 p{
     text-align: center;
 }
@@ -187,28 +185,4 @@ footer div ul li{
     position: fixed;
     bottom: 60px;
     right: 50px;
-
-}
-
-/*Pagina productos*/
-
-#titulo-pintura{
-    background-color: #FFE5D9;
-    padding: 6px;
-}
-
-.body-productos{
-    background-color: #FFFDFC;
-}
-
-#card-productos{
-    border: solid #FFB898
-}
-
-#boton-productos{
-    background-color: #ED4B00;
-}
-
-#titulo-card-productos{
-    background-color: #FFF5F0;
 }

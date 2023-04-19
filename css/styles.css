@@ -189,3 +189,26 @@ footer div ul li{
     right: 50px;
 
 }
+
+/*Pagina productos*/
+
+#titulo-pintura{
+    background-color: #FFE5D9;
+    padding: 6px;
+}
+
+.body-productos{
+    background-color: #FFFAFFFCFAF7;
+}
+
+#card-productos{
+    border: solid #FFB898
+}
+
+#boton-productos{
+    background-color: #ED4B00;
+}
+
+#titulo-card-productos{
+    background-color: #FFF5F0;
+}

@@ -1,11 +1,11 @@
-        /*Pagina principal - defecto*/
+/*Pagina principal - defecto*/
 *{
     margin:0;
     padding: 0;
     justify-content: center;
 }
 
-        /*Menu Principal*/
+/*Menu Principal*/
 
 header{
     display:flex;

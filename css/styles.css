@@ -21,7 +21,7 @@ nav ul{
     display: flex;
     list-style: none;
     gap: 20px;
-    font-size: 20px;
+    font-size: 16px;
     margin-left: 30px;
 }
 
@@ -31,7 +31,6 @@ nav ul{
     border-radius: 25px;
     text-decoration: none;
     color: black;
-
 }
 
         /*INDEX*/
@@ -41,11 +40,10 @@ nav ul{
     margin: 0 auto;
 }
 
-
 .categorias-titulo{
 background-color: #FFEDF0;
 padding: 15px;
-font-size: 40px;
+font-size: 25px;
 }
 
 #col-md-6{
@@ -70,7 +68,6 @@ font-size: 40px;
         width: 90%;
     }
 }
-
 
 .mapa{
     width: 85%;
@@ -177,10 +174,6 @@ footer div ul li{
 
 .banner-medios-pago{
     width: 100%;
-}
-
-.p-efectivo{
-    font-size: 20px;
 }
 
 /* Imagenes de Redes sociales - Whatsapp*/

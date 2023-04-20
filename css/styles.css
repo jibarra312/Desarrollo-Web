@@ -168,7 +168,7 @@ footer div ul li{
 /* Imagenes Banco, efectivo y tarjeta de credito*/
 
 
-.banco, .efectivo, .credito{
+.modo-pago{
     width: 100%;
 }
 

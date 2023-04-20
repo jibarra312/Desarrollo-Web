@@ -13,6 +13,10 @@ header{
     background-color: #FFCAD4;
 }
 
+header img {
+    width: 75%;
+}
+
 nav ul{
     display: flex;
     list-style: none;
@@ -33,7 +37,7 @@ nav ul{
         /*INDEX*/
 
 #carouselExampleIndicators{
-    width: 85%;
+    width: 80%;
     margin: 0 auto;
 }
 

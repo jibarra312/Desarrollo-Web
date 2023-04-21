@@ -20,15 +20,15 @@ header img {
 nav ul{
     display: flex;
     list-style: none;
-    gap: 1.25rem;
-    font-size: 1rem;
-    margin-left: 1.9rem;
+    gap: 20px;
+    font-size: 16px;
+    margin-left: 30px;
 }
 
 .nav-item {
     background-color:#FFEDF0;
-    padding: 0.5rem;
-    border-radius: 1.6rem;
+    padding: 8px;
+    border-radius: 25px;
     text-decoration: none;
     color: black;
 }
@@ -42,8 +42,8 @@ nav ul{
 
 .categorias-titulo{
 background-color: #FFEDF0;
-padding: 0.9rem;
-font-size: 1.6rem;
+padding: 15px;
+font-size: 25px;
 }
 
 #col-md-6{
@@ -56,10 +56,10 @@ font-size: 1.6rem;
 
 .categoria{
     display:flex;
-    width: 28rem;
+    width: 450px;
     margin: 0 auto;
     padding: 0;
-    border: 0.125rem solid #FF8AA0;
+    border: 2px solid #FF8AA0;
     width: 90%;
 }
 
@@ -77,7 +77,7 @@ font-size: 1.6rem;
 
 #titulo{
     background-color: #FFEDF0;
-    padding: 0.9rem;
+    padding: 15px;
 }
 
 body{
@@ -88,14 +88,14 @@ body{
 }
 
 .card{
-    width: 12rem;
-    margin: 1.9rem 1.9rem 0.9rem 1.25rem;
+    width: 200px;
+    margin: 30px 30px 15px 20px;
     background-color:white;
     border: solid #FF8AA0;
 }
 
 h1{
-    font-size: 1.25rem;
+    font-size: 20px;
     text-align: center;
 }
 
@@ -130,26 +130,26 @@ footer{
     background-color: #FFD3DB;
     justify-content: left;
     align-items: center;
-    padding: 3.125rem;
+    padding: 50px;
 }
 
 .footer-nav{
     display: flex;
     flex-direction: column;
     background-color: #FFD3DB;
-    padding: 0.9rem;
+    padding: 15px;
 }
 
 .footer-a{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 1.9rem;
+    gap: 30px;
 }
 
 footer div ul li{
     display: flex;
-    margin: 1.2rem
+    margin: 3px
 }
 
 
@@ -162,7 +162,7 @@ footer div ul li{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 1.25rem;
+    margin-top: 20px;
 }
 
 /* Imagenes Banco, efectivo y tarjeta de credito*/
@@ -178,8 +178,8 @@ footer div ul li{
 
 /* Imagenes de Redes sociales - Whatsapp*/
 .whatsapp{
-    width: 3.5rem;
+    width: 55px;
     position: fixed;
-    bottom: 3.75rem;
-    right: 3.125rem;
+    bottom: 60px;
+    right: 50px;
 }

@@ -69,6 +69,10 @@ font-size: 25px;
     }
 }
 
+.categoria:hover {
+    transform: scale(1.05, 1.05);
+}
+
 .mapa{
     width: 85%;
 }
@@ -183,3 +187,6 @@ footer div ul li{
     bottom: 60px;
     right: 50px;
 }
+
+/*Categorias*/
+

@@ -106,7 +106,7 @@ body{
     margin: 30px 30px 15px 20px;
     background-color:white;
     border: solid #FF8AA0;
-    
+    box-shadow: 0px 0px 6px black;
 }
 
 h1{
@@ -136,7 +136,6 @@ h6 {
 
 .boton-oferta{
     position: relative;
-    
 }
 
 /*Footer*/

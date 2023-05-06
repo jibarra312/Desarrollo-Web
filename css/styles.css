@@ -25,15 +25,15 @@ header img:hover{
 nav ul{
     display: flex;
     list-style: none;
-    gap: 20px;
-    font-size: 16px;
-    margin-left: 30px;
+    gap: 1.25rem;
+    font-size: 1rem;
+    margin-left: 1.9rem;
 }
 
 .nav-item {
     background-color:#FFEDF0;
-    padding: 8px;
-    border-radius: 25px;
+    padding: 0.5rem;
+    border-radius: 1.6rem;
     text-decoration: none;
     color: black;
     box-shadow: 1px 1px 2px black;
@@ -147,12 +147,7 @@ footer{
     padding: 50px;
 }
 
-.footer-nav{
-    display: flex;
-    flex-direction: column;
-    background-color: #FFD3DB;
-    padding: 15px;
-}
+.titulo
 
 .footer-a{
     display: flex;
